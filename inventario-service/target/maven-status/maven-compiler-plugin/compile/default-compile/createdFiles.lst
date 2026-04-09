@@ -1,4 +1,0 @@
-com/alan/inventario/config/KafkaConsumerConfig.class
-com/alan/producto/dto/ProductoEvento.class
-com/alan/inventario/InventarioServiceApplication.class
-com/alan/inventario/consumer/InventarioConsumer.class

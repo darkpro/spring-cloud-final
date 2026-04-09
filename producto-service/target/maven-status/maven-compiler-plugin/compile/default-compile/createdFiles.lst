@@ -1,5 +1,0 @@
-com/alan/producto/service/ProductoPublisherService.class
-com/alan/producto/controller/ProductoController.class
-com/alan/producto/ProductoServiceApplication.class
-com/alan/producto/config/KafkaProducerConfig.class
-com/alan/producto/dto/ProductoEvento.class
