@@ -13,7 +13,7 @@
 - Docker
 - Docker Compose v2
 
-## Instalación rápida en Linux Mint 22.3
+## Instalación
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y openjdk-17-jdk maven git curl docker.io docker-compose-v2
