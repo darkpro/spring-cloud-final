@@ -1,0 +1,4 @@
+/home/usuario/spring-cloud-final/inventario-service/src/main/java/com/alan/inventario/config/KafkaConsumerConfig.java
+/home/usuario/spring-cloud-final/inventario-service/src/main/java/com/alan/producto/dto/ProductoEvento.java
+/home/usuario/spring-cloud-final/inventario-service/src/main/java/com/alan/inventario/InventarioServiceApplication.java
+/home/usuario/spring-cloud-final/inventario-service/src/main/java/com/alan/inventario/consumer/InventarioConsumer.java

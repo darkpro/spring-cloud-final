@@ -1,0 +1,5 @@
+/home/usuario/spring-cloud-final/producto-service/src/main/java/com/alan/producto/config/KafkaProducerConfig.java
+/home/usuario/spring-cloud-final/producto-service/src/main/java/com/alan/producto/dto/ProductoEvento.java
+/home/usuario/spring-cloud-final/producto-service/src/main/java/com/alan/producto/controller/ProductoController.java
+/home/usuario/spring-cloud-final/producto-service/src/main/java/com/alan/producto/service/ProductoPublisherService.java
+/home/usuario/spring-cloud-final/producto-service/src/main/java/com/alan/producto/ProductoServiceApplication.java
